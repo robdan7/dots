@@ -1,0 +1,15 @@
+[submodule "wallpapers/aesthetic-wallpapers"]
+	path = aesthetic-wallpapers
+	url = https://github.com/D3Ext/aesthetic-wallpapers.git
+[submodule "yay"]
+	path = yay
+	url = https://aur.archlinux.org/yay.git
+[submodule "pywal16"]
+	path = pywal16
+	url = https://github.com/eylles/pywal16.git
+[submodule "wallpapers/wallpapers"]
+	path = wallpapers/wallpapers
+	url = https://github.com/kiddae/wallpapers.git
+[submodule "rofi-install/rofi"]
+	path = rofi-install/rofi
+	url = https://github.com/adi1090x/rofi.git

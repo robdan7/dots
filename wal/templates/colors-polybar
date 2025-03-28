@@ -1,0 +1,9 @@
+background = ee{color1.strip}
+background-alt = {color9.strip}
+foreground = {color7.strip}
+foreground-alt = {color15.strip}
+primary = {color7.strip}
+secondary = {color15.strip}
+alert = {background.strip}
+disabled = {background.strip}
+wallpaper = {wallpaper}

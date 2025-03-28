@@ -1,0 +1,28 @@
+{
+    "checksum": "88e8aea196b0933c6c4cd51119d178f6",
+    "wallpaper": "/home/robyn/.config/aesthetic-wallpapers/images/shiny_purple.png",
+    "alpha": "100",
+    "special": {
+        "background": "#070B15",
+        "foreground": "#c1c2c4",
+        "cursor": "#c1c2c4"
+    },
+    "colors": {
+        "color0": "#070B15",
+        "color1": "#594476",
+        "color2": "#6D5392",
+        "color3": "#6C50A1",
+        "color4": "#985DA9",
+        "color5": "#AD54B5",
+        "color6": "#DF6AD4",
+        "color7": "#c1c2c4",
+        "color8": "#575e6b",
+        "color9": "#594476",
+        "color10": "#6D5392",
+        "color11": "#6C50A1",
+        "color12": "#985DA9",
+        "color13": "#AD54B5",
+        "color14": "#DF6AD4",
+        "color15": "#c1c2c4"
+    }
+}

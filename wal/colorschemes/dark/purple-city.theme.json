@@ -1,0 +1,28 @@
+{
+    "checksum": "bf1b6871f23e4304903e4b42f3685f92",
+    "wallpaper": "/home/robyn/.config/wallpapers/aesthetic-wallpapers/images/pastel-city.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f151c",
+        "foreground": "#c3c4c6",
+        "cursor": "#c3c4c6"
+    },
+    "colors": {
+        "color0": "#0f151c",
+        "color1": "#847EA9",
+        "color2": "#7B89BD",
+        "color3": "#978CBB",
+        "color4": "#A1ACE8",
+        "color5": "#C3A9E5",
+        "color6": "#C3A9E5",
+        "color7": "#c3c4c6",
+        "color8": "#5c6471",
+        "color9": "#847EA9",
+        "color10": "#7B89BD",
+        "color11": "#978CBB",
+        "color12": "#A1ACE8",
+        "color13": "#C3A9E5",
+        "color14": "#C3A9E5",
+        "color15": "#c3c4c6"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "adee764f9988a7c24ff3178aefd51481",
+    "wallpaper": "/home/robyn/.config/wallpapers/wallpapers/nature/24439452.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#20242d",
+        "foreground": "#c7c8ca",
+        "cursor": "#c7c8ca"
+    },
+    "colors": {
+        "color0": "#20242d",
+        "color1": "#576275",
+        "color2": "#5d6679",
+        "color3": "#626975",
+        "color4": "#676f80",
+        "color5": "#737b89",
+        "color6": "#7a808d",
+        "color7": "#989ba1",
+        "color8": "#666c7d",
+        "color9": "#75839D",
+        "color10": "#7C89A2",
+        "color11": "#838C9D",
+        "color12": "#8A95AB",
+        "color13": "#9AA4B7",
+        "color14": "#A3ABBD",
+        "color15": "#c7c8ca"
+    }
+}

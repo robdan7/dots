@@ -1,0 +1,28 @@
+{
+    "checksum": "3a64eaf700cad7eb0a143bc11a03aff3",
+    "wallpaper": "/home/robyn/.config/wallpapers/wallpapers/abstract/pawel-czerwinski-1404603-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#111111",
+        "foreground": "#c3c3c3",
+        "cursor": "#c3c3c3"
+    },
+    "colors": {
+        "color0": "#111111",
+        "color1": "#40333d",
+        "color2": "#4e3444",
+        "color3": "#57384d",
+        "color4": "#5b4955",
+        "color5": "#612f4c",
+        "color6": "#693e54",
+        "color7": "#988d8d",
+        "color8": "#6e5959",
+        "color9": "#564452",
+        "color10": "#68465B",
+        "color11": "#744B67",
+        "color12": "#7A6272",
+        "color13": "#823F66",
+        "color14": "#8C5370",
+        "color15": "#c3c3c3"
+    }
+}

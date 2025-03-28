@@ -1,0 +1,28 @@
+{
+    "checksum": "e55317c3f265dd9c0a553223a7f1a3bf",
+    "wallpaper": "/home/robyn/.config/wallpapers/aesthetic-wallpapers/images/plain-wallpaper.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0A0A",
+        "foreground": "#c1c1c1",
+        "cursor": "#c1c1c1"
+    },
+    "colors": {
+        "color0": "#0A0A0A",
+        "color1": "#a54812",
+        "color2": "#a23f27",
+        "color3": "#790c45",
+        "color4": "#690e4b",
+        "color5": "#811448",
+        "color6": "#992d45",
+        "color7": "#958a8a",
+        "color8": "#685555",
+        "color9": "#DC6018",
+        "color10": "#D95534",
+        "color11": "#A2105D",
+        "color12": "#8D1365",
+        "color13": "#AD1B60",
+        "color14": "#CD3C5C",
+        "color15": "#c1c1c1"
+    }
+}

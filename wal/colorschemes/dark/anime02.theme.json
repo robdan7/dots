@@ -1,0 +1,28 @@
+{
+    "checksum": "2e532c89a7299842b9978dc79a385436",
+    "wallpaper": "/home/robyn/.config/wallpapers/aesthetic-wallpapers/images/lofi_cat.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c13",
+        "foreground": "#c2c2c4",
+        "cursor": "#c2c2c4"
+    },
+    "colors": {
+        "color0": "#0c0c13",
+        "color1": "#342d49",
+        "color2": "#2a394d",
+        "color3": "#453947",
+        "color4": "#625166",
+        "color5": "#897885",
+        "color6": "#988a9f",
+        "color7": "#8d8d97",
+        "color8": "#59596c",
+        "color9": "#463D62",
+        "color10": "#394C67",
+        "color11": "#5D4C5F",
+        "color12": "#836C89",
+        "color13": "#B7A0B2",
+        "color14": "#CBB8D5",
+        "color15": "#c2c2c4"
+    }
+}
