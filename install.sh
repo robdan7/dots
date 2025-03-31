@@ -12,6 +12,7 @@ pipx ensurepath
 ln -s -r ./* ~/.config
 ln -s -r ./.xinitrc ~/.xinitrc
 ln -s -r ./.Xresources ~/.Xresources 
+xrdb ~/.Xresources
 
 # Install biscuit theme for fish
 fisher install projekt0n/biscuit
