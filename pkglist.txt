@@ -24,6 +24,7 @@ nano
 network-manager-applet
 networkmanager
 nwg-look
+pacman-contrib
 polybar
 pulseaudio
 python-pipx
