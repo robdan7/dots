@@ -34,6 +34,8 @@ bindsym $mod+q kill
 bindsym $mod+Tab exec --no-startup-id "$rofi/launchers/type-1/launcher.sh"
 # rofi powermenu
 bindsym $mod+Escape exec --no-startup-id "$rofi/powermenu/type-1/powermenu.sh"
+# rofi calc
+bindsym $mod+c exec --no-startup-id "$rofi/calc/type-1/calc.sh"
 
 # reload the configuration file
 bindsym $mod+Shift+c reload

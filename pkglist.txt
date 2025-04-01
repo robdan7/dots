@@ -29,6 +29,7 @@ polybar
 pulseaudio
 python-pipx
 rofi
+rofi-calc
 smartmontools
 thunar
 ttf-jetbrains-mono-nerd
