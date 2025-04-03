@@ -6,6 +6,7 @@ chafa
 cmake
 efibootmgr
 fastfetch
+feh
 fish
 fisher
 git
