@@ -12,18 +12,14 @@ git config --global core.editor "nano"
 chsh -s /usr/bin/fish
 
 # Install yay
-cd ./submodules/yay
-makepkg -si --noconfirm
-cd ../..
+makepkg -si --noconfirm -D ./submodules/yay
 
-# TODO move yay packages to install file
+# Install yay packages
 yay -S --sudoloop --noconfirm --needed - < pkglist.yay.txt
 
 # Install pywal16
-cd ./submodules/pywal16
-pipx install .
+pipx install ./submodules/pywal16/.
 pipx ensurepath
-cd ../..
 
 # Create symlinks
 rm -rf ~/.config
