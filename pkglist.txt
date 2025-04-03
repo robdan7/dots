@@ -29,6 +29,7 @@ pacman-contrib
 polybar
 pulseaudio
 python-pipx
+picom
 rofi
 rofi-calc
 smartmontools

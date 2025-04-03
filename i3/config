@@ -172,6 +172,6 @@ exec_always --no-startup-id $polybar/scripts/launch.sh &
 #Restore pywal 
 exec_always --no-startup-id set-wallpaper -R -q -e &
 
-bindsym $mod+Shift+w exec set-wallpaper ~/.config/wallpapers/  &
+bindsym $mod+Shift+w exec set-wallpaper ~/.config/submodules/walls  &
 
 exec_always --no-startup-id picom --config ~/.config/compton/compton.conf --backend glx &

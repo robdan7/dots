@@ -12,22 +12,23 @@ git config --global core.editor "nano"
 chsh -s /usr/bin/fish
 
 # Install yay
-cd ./yay
+cd ./submodules/yay
 makepkg -si --noconfirm
-cd ..
+cd ../..
 
 # TODO move yay packages to install file
 yay -S --sudoloop --noconfirm --needed - < pkglist.yay.txt
 
 # Install pywal16
-cd ./pywal16
+cd ./submodules/pywal16
 pipx install .
 pipx ensurepath
-cd ..
+cd ../..
 
 # Create symlinks
 ln -s -r $(pwd)/* ~/.config/
-ln -s -r ./.Xresources ~/.Xresources 
+ln -s -r $(pwd)/.Xresources ~/.Xresources
+
 xrdb ~/.Xresources
 
 # Install biscuit theme for fish
