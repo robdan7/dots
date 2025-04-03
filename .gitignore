@@ -4,3 +4,6 @@ btop
 dconf
 pulse
 xfce4
+fish/fish_plugins
+fish/fish_variables
+fish/functions
