@@ -1,6 +1,7 @@
 if status is-interactive
    set fish_greeting
-   # neofetch
+   eval $(ssh-agent -c)
+   clear
    fastfetch --file-raw ~/.cache/chafa/icon
    source ~/.cache/wal/colors.fish
 end
