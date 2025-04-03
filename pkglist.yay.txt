@@ -1,0 +1,3 @@
+librewolf-bin 
+nwg-look 
+ttf-jetbrains-mono-nerd
