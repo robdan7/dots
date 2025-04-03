@@ -26,6 +26,8 @@ pipx ensurepath
 cd ../..
 
 # Create symlinks
+rm -rf ~/.config
+mkdir ~/.config
 ln -s -r $(pwd)/* ~/.config/
 ln -s -r $(pwd)/.Xresources ~/.Xresources
 
