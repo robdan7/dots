@@ -12,7 +12,10 @@ git config --global core.editor "nano"
 chsh -s /usr/bin/fish
 
 # Install yay
-makepkg -si --noconfirm -D ./submodules/yay
+git clone https://aur.archlinux.org/yay-bin.git
+makepkg -si --noconfirm -D ./yay-bin
+rm -rf yay-bin
+
 
 # Install yay packages
 yay -S --sudoloop --noconfirm --needed - < pkglist.yay.txt

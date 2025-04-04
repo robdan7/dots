@@ -1,12 +1,6 @@
 [submodule "submodules/walls/aesthetic-wallpapers"]
 	path = submodules/walls/aesthetic-wallpapers
 	url = https://github.com/D3Ext/aesthetic-wallpapers.git
-[submodule "submodules/walls/yay"]
-	path = submodules/walls/yay
-	url = https://aur.archlinux.org/yay.git
-[submodule "submodules/yay"]
-	path = submodules/yay
-	url = https://aur.archlinux.org/yay.git
 [submodule "submodules/pywal16"]
 	path = submodules/pywal16
 	url = https://github.com/eylles/pywal16.git
