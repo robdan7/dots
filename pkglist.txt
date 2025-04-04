@@ -1,7 +1,6 @@
 base
 base-devel
 btop
-chafa
 cmake
 efibootmgr
 fastfetch
