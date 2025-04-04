@@ -35,3 +35,6 @@ fish -c "fisher install projekt0n/biscuit"
 # Generate fastfetch image
 mkdir ~/.cache/chafa -p
 chafa  $(pwd)/chafa/Arch-Linux-UwU-Linux-2036721-4111737064.png -s 60x60 --polite true > ~/.cache/chafa/icon
+
+./set-wallpaper install
+set-wallpaper ~/.config/submodules/walls
