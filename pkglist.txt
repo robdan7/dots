@@ -1,4 +1,3 @@
-alacritty
 base
 base-devel
 btop
@@ -15,6 +14,7 @@ i3blocks
 i3lock
 i3status
 iwd
+kitty
 less
 lightdm
 lightdm-gtk-greeter

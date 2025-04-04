@@ -1,8 +1,0 @@
-[general]
-import = [
-    "~/.cache/wal/colors-alacritty.toml"
-]
-[font]
-size = 11
-normal = { family = "JetBrainsMono NFM SemiBold", style = "SemiBold,Regular" }
-bold = { family = "JetBrainsMono NF ExtraBold", style= "ExtraBold,Regular" }

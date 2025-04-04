@@ -2,7 +2,7 @@ if status is-interactive
    set fish_greeting
    eval $(ssh-agent -c)
    clear
-   fastfetch --file-raw ~/.cache/chafa/icon
+   fastfetch --logo ~/.config/kitty/Arch-Linux-UwU-Linux-2036721-4111737064.png --logo-width 50
    source ~/.cache/wal/colors.fish
 end
 

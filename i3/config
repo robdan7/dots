@@ -27,7 +27,7 @@ include ~/.cache/wal/colors-i3.conf
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec alacritty
+bindsym $mod+Return exec kitty
 
 # kill focused window
 bindsym $mod+q kill
