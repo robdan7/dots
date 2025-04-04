@@ -35,5 +35,7 @@ xrdb ~/.Xresources
 # Install biscuit theme for fish
 fish -c "fisher install projekt0n/biscuit"
 
-./set-wallpaper install
+./set-wallpaper.fish install
 set-wallpaper ~/.config/submodules/walls
+./set-greeting-screen.fish install
+set-greeting-screen

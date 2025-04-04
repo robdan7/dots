@@ -7,7 +7,7 @@ if  test "$argv[1]" = "help"
 end
 
 if test "$argv[1]" = "install"
-	sudo cp set-wallpaper.sh /usr/local/bin/set-wallpaper
+	sudo cp set-wallpaper.fish /usr/local/bin/set-wallpaper
 	exit
 end
 

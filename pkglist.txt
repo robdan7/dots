@@ -16,7 +16,7 @@ iwd
 kitty
 less
 lightdm
-lightdm-gtk-greeter
+lightdm-slick-greeter
 linux
 linux-firmware
 maven
