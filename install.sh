@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-pacman -S --needed - < pkglist.txt
+sudo pacman -S --needed - < pkglist.txt
 
 # Download Git submodules
 git submodule init
