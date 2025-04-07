@@ -4,9 +4,6 @@
 [submodule "submodules/pywal16"]
 	path = submodules/pywal16
 	url = https://github.com/eylles/pywal16.git
-[submodule "submodules/rofi"]
-	path = submodules/rofi
-	url = https://github.com/adi1090x/rofi.git
 [submodule "submodules/walls/wallpapers"]
 	path = submodules/walls/wallpapers
 	url = https://github.com/kiddae/wallpapers.git
