@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-pacman -S --needed - < pkglist.txt
+sudo pacman -S --needed - < pkglist.txt
 
 # Download Git submodules
 git submodule init
@@ -35,7 +35,8 @@ xrdb ~/.Xresources
 # Install biscuit theme for fish
 fish -c "fisher install projekt0n/biscuit"
 
-./set-wallpaper.fish install
+./set-wallpaper.sh install
+>>>>>>> origin/main
 set-wallpaper ~/.config/submodules/walls
 ./set-greeting-screen.fish install
 set-greeting-screen
