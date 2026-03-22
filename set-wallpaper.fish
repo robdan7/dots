@@ -11,7 +11,7 @@ if test "$argv[1]" = "install"
 	exit
 end
 
-wal -i $argv[1] -n --cols16 -q -e --recursive
+wal $argv --cols16 -q -e --recursive
 
 set WALLPAPER (cat $HOME/.cache/wal/wal | string collect)
 

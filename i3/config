@@ -140,6 +140,7 @@ bindsym $mod+Shift+F8 move container to workspace $ws8; workspace $ws8
 #bindsym $mod+Shift+F12 move container to workspace number $ws12
 
 #assign workspace to window
+
 workspace $ws1 output $monitor1
 workspace $ws2 output $monitor1
 workspace $ws3 output $monitor1
@@ -170,8 +171,8 @@ exec_always --no-startup-id $polybar/scripts/launch.sh &
 
 
 #Restore pywal 
-exec_always --no-startup-id set-wallpaper -R -q -e &
+exec_always --no-startup-id set-wallpaper -R -n &
 
-bindsym $mod+Shift+w exec set-wallpaper ~/.config/submodules/walls  &
+bindsym $mod+Shift+w exec set-wallpaper -i ~/.config/submodules/walls  &
 
 exec_always --no-startup-id picom --config ~/.config/compton/compton.conf --backend glx &
